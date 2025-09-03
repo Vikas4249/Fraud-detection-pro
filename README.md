@@ -1,1 +1,2 @@
-# Fraud-detection-pro
+# Fraud-detection-pro 
+Developeda machine learning model to predict fraudulent transactions using the dataset "Fraud.csv". The model should be evaluated on its ability to identify fraudulent transactions, and the insights gained from the model should be used to create an actionable plan for a financial company to mitigate fraud. The dataset contains transaction data with features such as transaction type, amount, customer balances, and flags for fraudulent and flagged transactions. The final output should include the developed model, its performance evaluation, and the actionable plan derived from the model's insights.
